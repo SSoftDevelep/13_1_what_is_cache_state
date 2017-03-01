@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_1_what_is_cache_state", "13_1_what_is_cache_state\13_1_what_is_cache_state.csproj", "{09717D87-D734-4AD7-9846-2B1B30E3C78C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09717D87-D734-4AD7-9846-2B1B30E3C78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09717D87-D734-4AD7-9846-2B1B30E3C78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09717D87-D734-4AD7-9846-2B1B30E3C78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09717D87-D734-4AD7-9846-2B1B30E3C78C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
